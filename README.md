@@ -19,3 +19,5 @@ My favorite Style Guide is provided by [Google](https://github.com/google), howe
 - [Airbnb Swift Style Guide](https://github.com/airbnb/swift)
 - [Linkedin Swift Style Guide](https://github.com/linkedin/swift-style-guide)
 - [Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide)
+
+*Feel free to fork and submit pull requests for any new guides so they can be added to the list!*
